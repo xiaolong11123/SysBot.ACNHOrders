@@ -25,3 +25,5 @@
 {"HashIdentifier":3454080661,"NIDIdentifier":2899851390457691608,"Identity":"3512301016","PlaintextName":"访客信息：小欧-3512301016，岛屿信息：浮生-幻梦岛"}
 
 {"HashIdentifier":2533946991,"NIDIdentifier":2812878806469040386,"Identity":"3968770459","PlaintextName":"访客信息：XW-3968770459，岛屿信息：小晚-拉岛"}
+
+{"HashIdentifier":4179859775,"NIDIdentifier":4617346632537643782,"Identity":"3240710203","PlaintextName":"访客信息：Jiaozi-3240710203，岛屿信息：jiaozi-鲈鱼岛"}
